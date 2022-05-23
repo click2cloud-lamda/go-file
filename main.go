@@ -20,7 +20,7 @@ func main() {
 	// fs := http.FileServer(http.Dir("build"))
 	// http.Handle("/", fs)
 	// var host string
-//	fmt.Print("for test purpose007")
+	fmt.Print("for test purpose007")
 	fmt.Println("localhost server starting check")
 	fmt.Println("Starting server on the port 8080...")
 
