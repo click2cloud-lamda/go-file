@@ -21,7 +21,7 @@ func main() {
 	// http.Handle("/", fs)
 	// var host string
 	fmt.Print("for test purpose007")
-	fmt.Println("localhost server starting")
+	fmt.Println("localhost server starting check")
 	fmt.Println("Starting server on the port 8080...")
 
 	log.Fatal(http.ListenAndServe(":8080", r))
